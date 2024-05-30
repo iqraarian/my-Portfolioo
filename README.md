@@ -1,2 +1,2 @@
-# my-posrtfolio
+# my-portfolio
 using html css javascript
